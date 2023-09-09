@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.img-background-iphone {
+  background-image: url('../image/iphone-13pro.png');
+  background-size: cover;
+  height: 820px;
+  width: 400px;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+}
