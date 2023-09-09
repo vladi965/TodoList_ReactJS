@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TodoList_ReactJS/static/css/main.6e7a6239.css",
+    "main.js": "/TodoList_ReactJS/static/js/main.052b29c6.js",
+    "static/media/iphone-13pro.png": "/TodoList_ReactJS/static/media/iphone-13pro.05197556ef05ca345a26.png",
+    "index.html": "/TodoList_ReactJS/index.html",
+    "main.6e7a6239.css.map": "/TodoList_ReactJS/static/css/main.6e7a6239.css.map",
+    "main.052b29c6.js.map": "/TodoList_ReactJS/static/js/main.052b29c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e7a6239.css",
+    "static/js/main.052b29c6.js"
+  ]
+}
